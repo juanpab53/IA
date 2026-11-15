@@ -16,6 +16,9 @@ IA/
 │
 ├── sesion-02/
 │   └── Exercises and activities from session 02
+|
+├── sesion-03/
+│   └── Exercises and activities from session 03
 │
 └── README.md
 ```
